@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
   ##
 
-<div align="center">
+<div align="center" style="display: inline_block"><br>
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
   <a href="https://www.instagram.com/ra_caetano2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
